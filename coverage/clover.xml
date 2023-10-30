@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1698688390419" clover="3.2.0">
-  <project timestamp="1698688390419" name="All files">
-    <metrics statements="21" coveredstatements="16" conditionals="4" coveredconditionals="3" methods="9" coveredmethods="5" elements="34" coveredelements="24" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
-    <file name="autor.js" path="D:\GitHub\livros-main\autor.js">
+<coverage generated="1698693008098" clover="3.2.0">
+  <project timestamp="1698693008098" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="9" coveredmethods="9" elements="34" coveredelements="34" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
+    <file name="autor.js" path="D:\GitHub\avaliacao\autor.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
     </file>
-    <file name="editora.js" path="D:\GitHub\livros-main\editora.js">
+    <file name="editora.js" path="D:\GitHub\avaliacao\editora.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
     </file>
-    <file name="livro.js" path="D:\GitHub\livros-main\livro.js">
-      <metrics statements="16" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="7" coveredmethods="3"/>
-      <line num="3" count="2" type="stmt"/>
-      <line num="4" count="2" type="stmt"/>
-      <line num="5" count="2" type="stmt"/>
-      <line num="6" count="2" type="stmt"/>
-      <line num="7" count="2" type="stmt"/>
-      <line num="8" count="2" type="stmt"/>
-      <line num="12" count="0" type="stmt"/>
-      <line num="16" count="0" type="stmt"/>
-      <line num="20" count="0" type="stmt"/>
-      <line num="24" count="0" type="stmt"/>
-      <line num="28" count="1" type="stmt"/>
-      <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
+    <file name="livro.js" path="D:\GitHub\avaliacao\livro.js">
+      <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <line num="3" count="7" type="stmt"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="5" count="7" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="7" count="7" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="32" count="3" type="cond" truecount="2" falsecount="0"/>
       <line num="33" count="1" type="stmt"/>
-      <line num="35" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="35" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="36" count="1" type="stmt"/>
-      <line num="38" count="0" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
